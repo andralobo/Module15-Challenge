@@ -45,7 +45,7 @@ The Total Summary table shows
 ### Summary
 
 <b>Lot Summary</b><br>
-<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/Suspension_lots.png?raw=true" width="auto" height="auto">
+<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/Suspension_lots.png?raw=true" width="auto" height="auto" border="1">
 
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
