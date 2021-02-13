@@ -30,6 +30,8 @@ We were provided data a dataset that contained results from mulitple production 
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+Reviewing the tables below it shows that the variance is 62.29356 PSI and Lots 1 & 2 are within the allowed 100 PSI variance. Lot 3 shows a large variance is not with the 100 PSI variance.   
+
 <b>Total Summary</b><br>
 <img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/total_summary.png?raw=true" width="auto" height="auto">
 
@@ -42,7 +44,6 @@ The Total Summary table shows
 
 ## Deliverable 3 - T-Tests on Suspension Coils
 
-### Summary
 
 <b>Lot Summary</b><br>
 <img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/Suspension_lots.png?raw=true" width="auto" height="auto" border="1">
@@ -50,7 +51,7 @@ The Total Summary table shows
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
 
-### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horsepower, maintenance cost, or safety rating.
 
 
 ### What metric or metrics are you going to test?
