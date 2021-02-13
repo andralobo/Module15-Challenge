@@ -30,11 +30,11 @@ We were provided data a dataset that contained results from mulitple production 
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-<b>Total Summary</b>
-<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/total_summary.png?raw=true" width="70%" height="auto">
+<b>Total Summary</b><br>
+<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/total_summary.png?raw=true" width="auto" height="auto">
 
-<b>Lot Summary</b>
-<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/lot_summary.png?raw=true" width="70%" height="auto">
+<b>Lot Summary</b><br>
+<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/lot_summary.png?raw=true" width="auto" height="auto">
 
 
 The Total Summary table shows 
@@ -44,8 +44,8 @@ The Total Summary table shows
 
 ### Summary
 
-<b>Lot Summary</b>
-<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/lots.png?raw=true" width="70%" height="auto">
+<b>Lot Summary</b><br>
+<img src="https://github.com/andralobo/Module15-Challenge/blob/main/Resources/Suspension_lots.png?raw=true" width="auto" height="auto">
 
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
